@@ -60,11 +60,16 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f965a8b0-29e3-40a5-a5cc-0cf49035383b" height="80%" width="80%" alt="New Ticket Image"/>
 </p>
-<p><strong>Step 4: Create Another Ticket</strong>: As an end-user, create another ticket stating that the accounting department needs an Adobe upgrade. As a help desk agent (Pablo), observe the ticket’s properties. Set the SLA to Sev-C (8 hours, 2/7) and assign the ticket to the Support department. Work the ticket to completion as John.</p>
+<p><strong>Step 4: Create Another Ticket</strong>: As an end-user, create another ticket stating that the accounting department needs an Adobe upgrade. As a help desk agent (Pablo), observe the ticket’s properties. Set the SLA to Sev-C (8 hours, business hours) and assign the ticket to the Support department. Work the ticket to completion as John.</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0abafec6-eaab-434f-8639-614394275bac" height="80%" width="80%" alt="CFO Laptop Ticket Image"/>
+  <img src="https://github.com/user-attachments/assets/c7b63ab8-ff4e-4c2f-9846-655e48dfc8e5" height="80%" width="80%" alt="CFO Laptop Ticket Image"/>
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d4a9f027-b522-4ae7-99dc-f4cbb6c10266" height="80%" width="80%" alt="CFO Laptop Ticket Image"/>
+</p>
+
 <p><strong>Step 5: Create a Third Ticket</strong>: As an end-user, create a third ticket stating that the CFO’s laptop will no longer turn on. As a help desk agent (John), observe the ticket’s properties. Set the SLA to Sev-C (8 hours, business hours) and assign the ticket to the Support department. Work the ticket to completion as John.</p>
 
 <p align="center">
