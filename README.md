@@ -29,9 +29,24 @@
 <p><strong>Step 2: Create a Ticket as an End User</strong>: As an end-user, create a ticket stating that the entire mobile/online banking system is down. As a help desk agent (Pablo), observe the ticket’s properties such as Priority, Department, SLA, and Assigned To.</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bfbeb953-2e5a-45a6-80a5-afae5d1ed071" height="80%" width="80%" alt="Set Ticket Properties Image"/>
+  <img src="https://github.com/user-attachments/assets/68b5ff0d-33ea-45f3-b2fb-cf4fe3c3f8c5" height="80%" width="80%" alt="Set Ticket Properties Image"/>
 </p>
-<p><strong>Step 3: Set Ticket Properties</strong>: As the help desk agent, set the ticket properties as follows: SLA - Sev-A (1 hour, 24/7); Department - Online Banking. Attempt to observe the ticket again as John. Can you view or change the ticket? Work the ticket to completion as Jane (another agent).</p>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/01105021-57a4-46ee-98c7-6de5879c501a" height="80%" width="80%" alt="Set Ticket Properties Image"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d9f951f8-985e-45a5-860e-b72bff11c747" height="80%" width="80%" alt="Set Ticket Properties Image"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0b7b9434-78fa-4808-a63f-73885ba24038" height="80%" width="80%" alt="Set Ticket Properties Image"/>
+</p>
+
+
+<p><strong>Step 3: Set Ticket Properties</strong>: As the help desk agent (Pablo), set the ticket properties as follows: SLA - Sev-A (1 hour, 24/7), change the help topic to Report a Problem / Business Critical Outage, and assign the ticket to Online Banking Team. Then Work the ticket to completion as David (Online Banking Team member and SysAdmin).</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9d18a60e-1edd-44de-9d68-a9807f6f109d" height="80%" width="80%" alt="New Ticket Image"/>
