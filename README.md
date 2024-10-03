@@ -46,7 +46,7 @@
 </p>
 
 
-<p><strong>Step 3: Set Ticket Properties</strong>: As the help desk agent (Pablo), set the ticket properties as follows: SLA - Sev-A (1 hour, 24/7), change the help topic to Report a Problem / Business Critical Outage, and assign the ticket to Online Banking Team. Then Work the ticket to completion as David (Online Banking Team member and SysAdmin).</p>
+<p><strong>Step 3: Set Ticket Properties</strong>: As the help desk agent (Pablo), set the ticket properties as follows: SLA - Sev-A (1 hour, 24/7); change the help topic to Report a Problem / Business Critical Outage, and assign the ticket to the Online Banking Team. Then, work the ticket to completion as David (Online Banking Team member and SysAdmin).</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9d18a60e-1edd-44de-9d68-a9807f6f109d" height="80%" width="80%" alt="New Ticket Image"/>
