@@ -73,17 +73,6 @@
 <p><strong>Step 5: Create a Third Ticket</strong>: As an end-user, create a third ticket stating that the CFO’s laptop will no longer turn on. As a help desk agent (John), observe the ticket’s properties. Set the SLA to Sev-C (8 hours, business hours) and assign the ticket to the Support department. Work the ticket to completion as John.</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cdc62b6c-f5b1-4ede-952e-9803cf9bd62c" height="80%" width="80%" alt="Assign Ticket Image"/>
+  <img src="https://github.com/user-attachments/assets/87e35468-c515-4d6c-9752-0fea91d15058" height="80%" width="80%" alt="Assign Ticket Image"/>
 </p>
-<p><strong>Step 6: Set Properties and Escalate</strong>: Set properties for all tickets, ensuring Sev-A (SysAdmins) is last. Observe that the ticket becomes inaccessible after escalation. Switch to the admin panel, assign yourself view-access to the SysAdmins department, then return to the agent panel and observe the escalated ticket. Note that you can no longer make changes to it.</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/59363d84-1d5b-4948-a75a-a8a761c2e1f4" height="80%" width="80%" alt="Solve Ticket Image"/>
-</p>
-<p><strong>Step 7: Solve Tickets</strong>: Solve all the tickets by marking them as completed. In most ticketing systems, including osTicket, email notifications are sent to users whenever their ticket is updated. These notifications keep users informed and allow them to respond to the tickets.</p>
-
-<h2>Additional Practice and Real-World Application</h2>
-
-<p>In real-world scenarios, tickets may be created via multiple channels such as phone calls, chat apps, emails, or web forms. You might even receive ticket requests from users you encounter in person. While it is okay to solve issues on the spot, it is crucial to create tickets for everything you do to track and report metrics. Practice using osTicket’s features multiple times to build your confidence and improve your technical skills in managing ticket lifecycles.</p>
-
-<p><strong>End Result</strong>: Congratulations! You have successfully managed the lifecycle of several tickets within osTicket. You have gained hands-on experience in creating, managing, and solving tickets while following SLAs and working within different departments.</p>
+<p><strong> Congratulations! You are now able to handle tickets from creation to completion in osTicket. You’ve learned how to assign SLAs, departments, and teams, and manage ticket escalations effectively. Continue practicing these steps to refine your workflow and ticket management skills in real-life scenarios.</p>
