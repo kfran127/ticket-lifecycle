@@ -26,6 +26,10 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/921a86aa-70d5-4488-9717-f180c6397168" height="80%" width="80%" alt="Create Ticket Image"/>
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3899e322-4225-4301-9d86-1575dda3119b" height="80%" width="80%" alt="Create Ticket Image"/>
+</p>
 <p><strong>Step 2: Create a Ticket as an End User</strong>: As an end-user, create a ticket stating that the entire mobile/online banking system is down. As a help desk agent (Pablo), observe the ticket’s properties such as Priority, Department, SLA, and Assigned To.</p>
 
 <p align="center">
@@ -48,15 +52,20 @@
 
 <p><strong>Step 3: Set Ticket Properties</strong>: As the help desk agent (Pablo), set the ticket properties as follows: SLA - Sev-A (1 hour, 24/7); change the help topic to Report a Problem / Business Critical Outage, and assign the ticket to the Online Banking Team. Then, work the ticket to completion as David (Online Banking Team member and SysAdmin).</p>
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9d18a60e-1edd-44de-9d68-a9807f6f109d" height="80%" width="80%" alt="New Ticket Image"/>
+  <img src="https://github.com/user-attachments/assets/8d497220-5c05-48e1-883f-272a49c806a1" height="80%" width="80%" alt="New Ticket Image"/>
 </p>
-<p><strong>Step 4: Create Another Ticket</strong>: As an end-user, create another ticket stating that the accounting department needs an Adobe upgrade. As a help desk agent (John), observe the ticket’s properties. Set the SLA to Sev-B (4 hours, 24/7) and assign the ticket to the Support department. Work the ticket to completion as John.</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f965a8b0-29e3-40a5-a5cc-0cf49035383b" height="80%" width="80%" alt="New Ticket Image"/>
+</p>
+<p><strong>Step 4: Create Another Ticket</strong>: As an end-user, create another ticket stating that the accounting department needs an Adobe upgrade. As a help desk agent (Pablo), observe the ticket’s properties. Set the SLA to Sev-C (8 hours, 2/7) and assign the ticket to the Support department. Work the ticket to completion as John.</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0abafec6-eaab-434f-8639-614394275bac" height="80%" width="80%" alt="CFO Laptop Ticket Image"/>
 </p>
-<p><strong>Step 5: Create a Third Ticket</strong>: As an end-user, create a third ticket stating that the CFO’s laptop will no longer turn on. As a help desk agent (John), observe the ticket’s properties. Set the SLA to Sev-B (4 hours, 24/7) and assign the ticket to the Support department. Work the ticket to completion as John.</p>
+<p><strong>Step 5: Create a Third Ticket</strong>: As an end-user, create a third ticket stating that the CFO’s laptop will no longer turn on. As a help desk agent (John), observe the ticket’s properties. Set the SLA to Sev-C (8 hours, business hours) and assign the ticket to the Support department. Work the ticket to completion as John.</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cdc62b6c-f5b1-4ede-952e-9803cf9bd62c" height="80%" width="80%" alt="Assign Ticket Image"/>
