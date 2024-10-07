@@ -4,7 +4,7 @@
 
 <h1>osTicket - Ticket Lifecycle Example</h1>
 
-<p>In this lab, I demonstrate how to manage the ticket lifecycle in the open-source help desk ticketing system osTicket. This example simulates end-user ticket creation, assignment to help desk agents, and resolution, focusing on ticket properties, SLAs, and working tickets to completion.</p>
+<p>In this lab, I demonstrate how to manage the ticket lifecycle in osTicket. This example simulates end-user ticket creation, assignment to help desk agents, and resolution, focusing on ticket properties, SLAs, and working tickets to completion.</p>
 
 <h2>Ticket Lifecycle Management Steps</h2>
 
